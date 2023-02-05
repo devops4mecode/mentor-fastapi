@@ -1,0 +1,5 @@
+# Cache files
+__pycache__
+
+# Module directory
+fastapi-env
