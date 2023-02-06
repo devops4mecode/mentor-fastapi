@@ -1,5 +1,10 @@
 ### MentorCruise - FastAPI
 
-- What is Fast API
-- What FastAPI features
-- Item Inventory FastAPI
+- What is FastAPI
+- FastAPI Features
+- Flask vs FastAPI
+- FastAPI Built-in Documentation
+- FastAPI Installation & Setup
+- FastAPI Get ops
+- FastAPI Ops
+- FastAPI Demo
