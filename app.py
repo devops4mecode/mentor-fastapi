@@ -11,7 +11,7 @@ except Exception as e:
 
 app = FastAPI()
 
-MONGO_DETAILS = "mongodb+srv://do4mfastapi:ZRtwVIl3ACCn4UfZ@do4m-fastapi.60kc8yz.mongodb.net/test"
+MONGO_DETAILS = "mongodb+srv://do4mfastapi:XXXXXXX@do4m-fastapi.XXXX.mongodb.net/test"
 client = motor.motor_asyncio.AsyncIOMotorClient(MONGO_DETAILS)
 
 database = client.FASTAPI
